@@ -1,0 +1,89 @@
+0.46648
+0.43976
+0.45474000000000003Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
+Quantity open: 1
+Quantity close: 0
+0.0
