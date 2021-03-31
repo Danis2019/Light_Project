@@ -1,244 +1,26 @@
-
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
--40.82000000006519
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
+-238.60000000000582
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
+0.39999999999417923
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
+-19.80000000000291
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
+-27.55999999999767
+-108.80000000000291
+-92.80000000000291
+-168.8000000000029
+-95.19999999999709
+-65.80000000000291
 0.0
-Quantity open: 1
-Quantity close: 0
+-3.1199999999953434
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
 0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 1
-Quantity close: 0
-0.0
-Quantity open: 2
-Quantity close: 1
--1.0
-Quantity open: 2
-Quantity close: 2
--5.799999999930151
-Quantity open: 2
-Quantity close: 2
-0.0
-Quantity open: 3
-Quantity close: 2
-0.0
-Quantity open: 3
-Quantity close: 3
--8.0
-Quantity open: 4
-Quantity close: 3
-0.0
-Quantity open: 4
-Quantity close: 3
-0.0
-Quantity open: 4
-Quantity close: 526
--42.20000000006985
-Quantity open: 4
-Quantity close: 526
-0.0
-Quantity open: 4
-Quantity close: 1902
-0.0
-Quantity open: 1
-Quantity close: 1603
--22.399999999906868
-Quantity open: 1
-Quantity close: 5860
-0.0
-Quantity open: 1
-Quantity close: 12887
-0.0
-Quantity open: 3
-Quantity close: 19405
--31.0
-Quantity open: 4
-Quantity close: 26802
--13.0
-Quantity open: 4
-Quantity close: 33804
-0.0
-Quantity open: 5
-Quantity close: 40631
--18.20000000006985
-Quantity open: 6
-Quantity close: 42754
--21.199999999953434
-Quantity open: 6
-Quantity close: 43829
-0.0
-Quantity open: 6
-Quantity close: 44911
-0.0
-Quantity open: 8
-Quantity close: 50167
--51.40000000002328
-Quantity open: 8
-Quantity close: 50690
-0.0
-Quantity open: 8
-Quantity close: 50691
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 8
-Quantity close: 51617
-0.0
-Quantity open: 9
-Quantity close: 57237
-0.0
-Quantity open: 9
-Quantity close: 64287
-0.0
-Quantity open: 9
-Quantity close: 71328
-0.0
-Quantity open: 9
-Quantity close: 78379
-0.0
-Quantity open: 9
-Quantity close: 86379
-0.0
-Quantity open: 9
-Quantity close: 94407
-0.0
-Quantity open: 9
-Quantity close: 102429
-0.0
-Quantity open: 9
-Quantity close: 110222
-0.0
-Quantity open: 10
-Quantity close: 116708
--39.59999999997672
-Quantity open: 10
-Quantity close: 124417
-0.0
-Quantity open: 11
-Quantity close: 130287
-31.79999999993015
-Quantity open: 12
-Quantity close: 137239
-0.0
-Quantity open: 12
-Quantity close: 144568
-0.0
-Quantity open: 1
-Quantity close: 0
+2.209999999991851
+-2.2299999999959255
 0.0
